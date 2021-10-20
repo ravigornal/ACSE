@@ -1,0 +1,17 @@
+[
+    {
+        "productId":"serram16",
+        "productName":"16GB RAM SERVER",
+        "productPrice":"1025.50"
+    },
+    {
+        "productId":"serram32",
+        "productName":"32GB RAM SERVER",
+        "productPrice":"2549.99"
+    },
+    {
+        "productId":"serram8",
+        "productName":"8GB RAM SERVER",
+        "productPrice":"100"
+    }
+]

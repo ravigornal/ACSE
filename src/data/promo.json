@@ -1,0 +1,10 @@
+[
+    {
+        "promoCode":"PLSD123",
+        "promoDescription":"10% discount for orders above $5000"
+    },
+    {
+        "promoCode":"PLSD456",
+        "promoDescription":"10% discount for orders above $5000"
+    }
+]
